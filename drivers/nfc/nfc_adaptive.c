@@ -16,6 +16,7 @@
    Copyright (C) 2011-2013  Huawei Corporation
 */
 #include <linux/module.h>
+#include <linux/seq_file.h>
 #include <linux/proc_fs.h>
 #include <linux/platform_device.h>
 #include <linux/of.h>
